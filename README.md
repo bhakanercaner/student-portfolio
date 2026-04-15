@@ -10,6 +10,8 @@ Hi, I’m Hakan. I’m a Software Engineering student at FINKI.
 - CSS
 - JavaScript
 - C++
+- Operating Systems
+- Cyber Security
 
 ## Goals
 - Improve my programming skills
